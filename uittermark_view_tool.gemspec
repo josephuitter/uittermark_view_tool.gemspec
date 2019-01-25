@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{various view Specific methods for my application.}
   spec.description   = %q{provides generated html for rails application.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://uittermark.com"
 
 
   # Specify which files should be added to the gem when it is released.
